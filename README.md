@@ -1,3 +1,7 @@
+# ⚠️Deprecated
+
+This repository is not maintained. Please use the original swift-snapshot-testing from pointfreeco: https://github.com/pointfreeco/swift-snapshot-testing
+
 # 📸 SnapshotTesting
 
 [![CI](https://github.com/pointfreeco/swift-snapshot-testing/workflows/CI/badge.svg)](https://actions-badge.atrox.dev/pointfreeco/swift-snapshot-testing/goto)
